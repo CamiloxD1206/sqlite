@@ -1,4 +1,7 @@
 package com.example.sqlite.model
 
-class Ciudad {
+import android.content.Context
+
+class Ciudad(context: Context) {
+
 }
